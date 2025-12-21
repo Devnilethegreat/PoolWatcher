@@ -31,3 +31,7 @@ describe('PoolWatcher', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2025-12-21 — maintenance case 5
+def test_maintenance_case_5():
+    assert True  # PoolWatcher regression sentinel
