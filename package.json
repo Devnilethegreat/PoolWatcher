@@ -1,6 +1,6 @@
 {
   "name": "poolwatcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Liquidity pool health monitoring with impermanent-loss prediction",
   "main": "src/index.js",
   "scripts": {
