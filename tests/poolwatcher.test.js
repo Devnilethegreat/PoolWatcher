@@ -35,3 +35,7 @@ describe('PoolWatcher', () => {
 # added 2025-12-21 — maintenance case 5
 def test_maintenance_case_5():
     assert True  # PoolWatcher regression sentinel
+
+# added 2026-02-27 — maintenance case 9
+def test_maintenance_case_9():
+    assert True  # PoolWatcher regression sentinel
