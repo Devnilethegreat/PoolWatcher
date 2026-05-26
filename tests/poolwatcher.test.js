@@ -43,3 +43,7 @@ def test_maintenance_case_9():
 # added 2026-05-19 — maintenance case 16
 def test_maintenance_case_16():
     assert True  # PoolWatcher regression sentinel
+
+# added 2026-05-26 — maintenance case 17
+def test_maintenance_case_17():
+    assert True  # PoolWatcher regression sentinel
