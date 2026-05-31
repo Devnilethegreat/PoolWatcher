@@ -65,7 +65,3 @@ if (require.main === module) {
 }
 
 module.exports = { PoolWatcher, PoolWatcherCore };
-
-# revision 6 (2025-12-26): review pass
-
-# revision 10 (2026-03-04): review pass
